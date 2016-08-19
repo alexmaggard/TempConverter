@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">TempConverter</string>
+    <string name="celciusResult">0</string>
+    <string name="fahrenheit">Fahrenheit</string>
+    <string name="celcius">Celcius</string>
+    <string name="fahrenheitInput">0</string>
+</resources>
